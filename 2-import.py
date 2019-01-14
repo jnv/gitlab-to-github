@@ -14,7 +14,7 @@ output = jsonlines.open('github_projects.jsonl', mode='w')
 for gl_project in gitlab_projects:
     gh_params = {
         'name': gl_project['name'],
-        'private': gl_project['visibility'] == 'private',
+        'private': gl_project['visibility'] != 'public',
         'description': gl_project['description'] or '',
     }
     try:
