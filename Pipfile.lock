@@ -18,10 +18,10 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:47f9c83ef4c0c621eaef743f133f09fa8a74a9b75f037e8624f83bd1b6626cb7",
-                "sha256:993f830721089fef441cdfeb4b2c8c9df86f0c63239f06bd025a76a7daddb033"
+                "sha256:59b7658e26ca9c7339e00f8f4636cdfe59d34fa37b9b04f6f9e9926b3cece1a5",
+                "sha256:b26104d6835d1f5e49452a26eb2ff87fe7090b89dfcaee5ea2212697e1e1d7ae"
             ],
-            "version": "==2018.11.29"
+            "version": "==2019.3.9"
         },
         "chardet": {
             "hashes": [
@@ -32,10 +32,10 @@
         },
         "deprecated": {
             "hashes": [
-                "sha256:8bfeba6e630abf42b5d111b68a05f7fe3d6de7004391b3cd614947594f87a4ff",
-                "sha256:b784e0ca85a8c1e694d77e545c10827bd99772392e79d5f5442e761515a1246e"
+                "sha256:2f293eb0eee34b1fcf3da530fe8fc4b0d71d43ddc2dc78e2ffb444b6c0868557",
+                "sha256:749f6cdcfbdc3f79258f8154bad43fced95adc632c337675d0385959895894bc"
             ],
-            "version": "==1.2.4"
+            "version": "==1.2.5"
         },
         "idna": {
             "hashes": [
@@ -54,10 +54,10 @@
         },
         "pygithub": {
             "hashes": [
-                "sha256:5d3e3bdee80be63a1e5aaca5689ff450a4e7f7dfac728577fdb9caac080c5479"
+                "sha256:2ce91d4990efbfb7a0a1abd06e2106a3998a4a5810a4bdd3c1b6be5499918e9b"
             ],
             "index": "pypi",
-            "version": "==1.43.4"
+            "version": "==1.43.7"
         },
         "pyjwt": {
             "hashes": [
@@ -68,10 +68,11 @@
         },
         "python-gitlab": {
             "hashes": [
-                "sha256:401ef8929db4dcb5b08e0a2263a0a70599fc7e5b27615f956ac26d245802d09e"
+                "sha256:92041e5d691a8301e39556a61ab429319fa9f968fdaabb502b943863a88ce455",
+                "sha256:a6b03bc53f6e2e22b88d5ff9772b1bb360570ec82752f1def3d6eb60cda093e7"
             ],
             "index": "pypi",
-            "version": "==1.7.0"
+            "version": "==1.8.0"
         },
         "requests": {
             "hashes": [
@@ -89,16 +90,16 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:61bf29cada3fc2fbefad4fdf059ea4bd1b4a86d2b6d15e1c7c0b582b9752fe39",
-                "sha256:de9529817c93f27c8ccbfead6985011db27bd0ddfcdb2d86f3f663385c6a9c22"
+                "sha256:2393a695cd12afedd0dcb26fe5d50d0cf248e5a66f75dbd89a3d4eb333a61af4",
+                "sha256:a637e5fae88995b256e3409dc4d52c2e2e0ba32c42a6365fee8bbd2238de3cfb"
             ],
-            "version": "==1.24.1"
+            "version": "==1.24.3"
         },
         "wrapt": {
             "hashes": [
-                "sha256:e03f19f64d81d0a3099518ca26b04550026f131eced2e76ced7b85c6b8d32128"
+                "sha256:4aea003270831cceb8a90ff27c4031da6ead7ec1886023b80ce0dfe0adf61533"
             ],
-            "version": "==1.11.0"
+            "version": "==1.11.1"
         }
     },
     "develop": {}
